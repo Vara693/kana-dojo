@@ -41,7 +41,7 @@
     "romaji": "Chiri mo tsumoreba yama to naru",
     "english": "Even dust, if piled up, becomes a mountain",
     "meaning": "Small efforts accumulate into great achievements",
-    "issued": true,
+    "issued": false,
     "completed": false
   },
   {
@@ -105,7 +105,7 @@
     "english": "One who chases two rabbits catches neither",
     "meaning": "Focus on one thing at a time",
     "completed": false,
-    "issued": true
+    "issued": false
   },
   {
     "id": 13,
@@ -113,7 +113,7 @@
     "romaji": "Ame futte ji katamaru",
     "english": "After rain, the ground hardens",
     "meaning": "Adversity builds strength",
-    "issued": true,
+    "issued": false,
     "completed": false
   },
   {
@@ -123,7 +123,7 @@
     "english": "Hearing a hundred times is not as good as seeing once",
     "meaning": "Seeing is believing",
     "completed": false,
-    "issued": true
+    "issued": false
   },
   {
     "id": 15,
@@ -132,7 +132,7 @@
     "english": "Three people together have the wisdom of Monju",
     "meaning": "Two heads are better than one",
     "completed": false,
-    "issued": true
+    "issued": false
   },
   {
     "id": 16,
@@ -159,7 +159,7 @@
     "english": "If fish has heart, water has heart",
     "meaning": "Good intentions will be reciprocated",
     "completed": false,
-    "issued": true
+    "issued": false
   },
   {
     "id": 19,
@@ -168,7 +168,7 @@
     "english": "Even a walking dog will hit a stick",
     "meaning": "Try anything and you might get lucky (or unlucky)",
     "completed": false,
-    "issued": true
+    "issued": false
   },
   {
     "id": 20,
@@ -177,9 +177,7 @@
     "english": "Not knowing is Buddha",
     "meaning": "Ignorance is bliss",
     "completed": false,
-    "issued": true,
-    "completedBy": "bonanza127",
-    "completedPR": 21611
+    "issued": false
   },
   {
     "id": 21,
@@ -197,7 +195,7 @@
     "english": "If you don't enter the tiger's den, you can't get the cub",
     "meaning": "Nothing ventured, nothing gained",
     "completed": false,
-    "issued": true
+    "issued": false
   },
   {
     "id": 23,
@@ -206,7 +204,7 @@
     "english": "A frog's child is a frog",
     "meaning": "Like father, like son",
     "completed": false,
-    "issued": true
+    "issued": false
   },
   {
     "id": 24,
@@ -242,7 +240,7 @@
     "english": "The nail that sticks out gets hammered down",
     "meaning": "Those who stand out may face criticism",
     "completed": false,
-    "issued": true
+    "issued": false
   },
   {
     "id": 28,
@@ -251,7 +249,7 @@
     "english": "Seven falls, eight struggles",
     "meaning": "Going through great pain and struggle",
     "completed": false,
-    "issued": true
+    "issued": false
   },
   {
     "id": 29,
@@ -260,7 +258,7 @@
     "english": "One time, one meeting",
     "meaning": "Treasure every encounter, for it will never recur",
     "completed": false,
-    "issued": true
+    "issued": false
   },
   {
     "id": 30,
@@ -413,7 +411,7 @@
     "english": "Even if you fall, don't get up empty-handed",
     "meaning": "Learn something from every setback",
     "completed": false,
-    "issued": true
+    "issued": false
   },
   {
     "id": 47,
@@ -422,7 +420,7 @@
     "english": "Even a packhorse driver looks good in fine clothes",
     "meaning": "Clothes make the person",
     "completed": false,
-    "issued": true
+    "issued": false
   },
   {
     "id": 48,
@@ -485,7 +483,7 @@
     "english": "The neighbor's flowers are red",
     "meaning": "The grass is always greener on the other side",
     "completed": false,
-    "issued": true
+    "issued": false
   },
   {
     "id": 55,
@@ -539,7 +537,7 @@
     "english": "Among flowers, the cherry blossom; among men, the warrior",
     "meaning": "The best of each kind",
     "completed": false,
-    "issued": true
+    "issued": false
   },
   {
     "id": 61,
@@ -566,7 +564,7 @@
     "english": "A frog in a well does not know the great sea",
     "meaning": "Limited experience limits perspective",
     "completed": false,
-    "issued": true
+    "issued": false
   },
   {
     "id": 64,
@@ -584,7 +582,7 @@
     "english": "If you eat poison, eat the plate too",
     "meaning": "If you must do something risky, go all the way",
     "completed": false,
-    "issued": true
+    "issued": false
   },
   {
     "id": 66,
@@ -620,7 +618,7 @@
     "english": "Good medicine tastes bitter",
     "meaning": "Helpful advice can be hard to hear",
     "completed": false,
-    "issued": true
+    "issued": false
   },
   {
     "id": 70,
@@ -638,7 +636,7 @@
     "english": "An iron club to an ogre",
     "meaning": "Making someone strong even stronger",
     "completed": false,
-    "issued": true
+    "issued": false
   },
   {
     "id": 72,
@@ -647,7 +645,7 @@
     "english": "Water on a hot stone",
     "meaning": "A futile effort with little effect",
     "completed": false,
-    "issued": true
+    "issued": false
   },
   {
     "id": 73,
@@ -665,7 +663,7 @@
     "english": "Counting a raccoon dog's skins before catching it",
     "meaning": "Don't count your chickens before they hatch",
     "completed": false,
-    "issued": true
+    "issued": false
   },
   {
     "id": 75,
@@ -674,7 +672,7 @@
     "english": "Three years on a stone",
     "meaning": "Perseverance will be rewarded",
     "completed": false,
-    "issued": true
+    "issued": false
   },
   {
     "id": 76,
@@ -692,7 +690,7 @@
     "english": "Peek at the sky through a needle's eye",
     "meaning": "A narrow viewpoint leads to poor judgment",
     "completed": false,
-    "issued": true
+    "issued": false
   },
   {
     "id": 78,
@@ -710,7 +708,7 @@
     "english": "Just watching is a pleasure",
     "meaning": "Enjoy observing; you don't always need to participate",
     "completed": false,
-    "issued": true
+    "issued": false
   },
   {
     "id": 80,
@@ -737,7 +735,7 @@
     "english": "Well-side conference",
     "meaning": "Neighborhood gossip",
     "completed": false,
-    "issued": true
+    "issued": false
   },
   {
     "id": 83,
@@ -746,7 +744,7 @@
     "english": "Dried bonito to a cat",
     "meaning": "Leave temptation unattended at your own risk",
     "completed": false,
-    "issued": true
+    "issued": false
   },
   {
     "id": 84,
@@ -809,7 +807,7 @@
     "english": "Continuation is power",
     "meaning": "Consistency leads to strength",
     "completed": false,
-    "issued": true
+    "issued": false
   },
   {
     "id": 91,
@@ -827,7 +825,7 @@
     "english": "A rolling stone gathers no moss",
     "meaning": "Constant change prevents stagnation",
     "completed": false,
-    "issued": true
+    "issued": false
   },
   {
     "id": 93,
@@ -872,7 +870,7 @@
     "english": "Even monkeys fall from trees",
     "meaning": "Experts also make mistakes",
     "completed": false,
-    "issued": true
+    "issued": false
   },
   {
     "id": 98,
@@ -925,7 +923,7 @@
     "romaji": "Nasake wa hito no tame narazu",
     "english": "Kindness is not for others",
     "meaning": "Good deeds return to you",
-    "issued": true,
+    "issued": false,
     "completed": false
   },
   {
@@ -944,7 +942,7 @@
     "english": "Haste will spoil things",
     "meaning": "Rushing leads to mistakes",
     "completed": false,
-    "issued": true
+    "issued": false
   },
   {
     "id": 106,
@@ -962,7 +960,7 @@
     "english": "The moon and a turtle",
     "meaning": "Vastly different; not comparable",
     "completed": false,
-    "issued": true
+    "issued": false
   },
   {
     "id": 108,
@@ -971,7 +969,7 @@
     "english": "Tap a stone bridge before crossing",
     "meaning": "Be very cautious",
     "completed": false,
-    "issued": true
+    "issued": false
   },
   {
     "id": 109,
@@ -1034,7 +1032,7 @@
     "english": "Wind in the willow",
     "meaning": "Stay flexible and let problems pass",
     "completed": false,
-    "issued": true
+    "issued": false
   },
   {
     "id": 116,
@@ -1052,7 +1050,7 @@
     "english": "Water on a hot stone",
     "meaning": "A futile effort",
     "completed": false,
-    "issued": true
+    "issued": false
   },
   {
     "id": 118,
@@ -1097,7 +1095,7 @@
     "english": "Good medicine tastes bitter",
     "meaning": "Helpful advice can be harsh",
     "completed": false,
-    "issued": true
+    "issued": false
   },
   {
     "id": 123,
@@ -1105,7 +1103,7 @@
     "romaji": "Koukai saki ni tatazu",
     "english": "Regret does not stand before",
     "meaning": "It's too late for regrets",
-    "issued": true,
+    "issued": false,
     "completed": false
   },
   {
@@ -1160,7 +1158,7 @@
     "english": "Travel needs companions; life needs kindness",
     "meaning": "Relationships and compassion matter",
     "completed": false,
-    "issued": true
+    "issued": false
   },
   {
     "id": 130,
@@ -1187,7 +1185,7 @@
     "english": "If in a hurry, go around",
     "meaning": "The safer path can be faster",
     "completed": false,
-    "issued": true
+    "issued": false
   },
   {
     "id": 133,
@@ -1196,7 +1194,7 @@
     "english": "A three-day monk",
     "meaning": "Someone who quits quickly",
     "completed": false,
-    "issued": true
+    "issued": false
   },
   {
     "id": 134,
@@ -1205,7 +1203,7 @@
     "english": "Once it passes your throat, you forget the heat",
     "meaning": "People forget hardships once they are over",
     "completed": false,
-    "issued": true
+    "issued": false
   },
   {
     "id": 135,
@@ -1214,7 +1212,7 @@
     "english": "The mouth is the source of misfortune",
     "meaning": "Careless words cause trouble",
     "completed": false,
-    "issued": true
+    "issued": false
   },
   {
     "id": 136,
@@ -1268,7 +1266,7 @@
     "english": "A bee on a crying face",
     "meaning": "Misfortune never comes alone",
     "completed": false,
-    "issued": true
+    "issued": false
   },
   {
     "id": 142,
@@ -1295,7 +1293,7 @@
     "english": "A frog's child is a frog",
     "meaning": "Children resemble their parents",
     "completed": false,
-    "issued": true
+    "issued": false
   },
   {
     "id": 145,
@@ -1456,7 +1454,7 @@
     "romaji": "Warau kado ni wa fuku kitaru",
     "english": "Good fortune comes to a laughing home",
     "meaning": "Happiness invites luck",
-    "issued": true,
+    "issued": false,
     "completed": false
   },
   {
@@ -1493,7 +1491,7 @@
     "english": "Even a packhorse driver looks good in fine clothes",
     "meaning": "Clothes make the person",
     "completed": false,
-    "issued": true
+    "issued": false
   },
   {
     "id": 167,
